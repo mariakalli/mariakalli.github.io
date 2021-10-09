@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Dr Maria Kalli's Webpage
 
-You can use the [editor on GitHub](https://github.com/mariakalli/mariakalli.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Lecturer in Statistics at the [Department of Mathematics at King's College London] (https://www.kcl.ac.uk/mathematics). I joined King's in August 2021. Prior to joining King's I was a Senior Lecturer in Statistics at the University of Kent, and before that I was an investment banker at Goldman Sachs in New York.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Picture](IMG_0180.jpeg)
 
-### Markdown
+## Research Interests
+- Bayesian Nonparametic Methods and related computational methods.
+- Bayesian Regression and global-local shrinkage priors for high dimensional data and time series models.
+- Time Series Modelling in Macroeconomics and Finance 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariakalli/mariakalli.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
